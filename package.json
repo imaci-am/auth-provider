@@ -14,22 +14,21 @@
   },
   "author": "Gagik Aharonyan",
   "license": "ISC",
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@rollup/plugin-commonjs": "^24.0.1",
     "@rollup/plugin-node-resolve": "^15.0.1",
     "@rollup/plugin-typescript": "^11.0.0",
     "@types/react": "^18.0.25",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "rollup": "^3.17.1",
     "rollup-plugin-dts": "^5.2.0",
     "tslib": "^2.5.0",
     "typescript": "^4.9.3"
   },
   "peerDependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   }
 }
