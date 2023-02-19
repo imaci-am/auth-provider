@@ -3163,4 +3163,3 @@ function useAuthDispatch() {
 }
 
 export { AuthProvider, forceLogout, getSession, useAuthDispatch, useAuthState };
-//# sourceMappingURL=index.js.map
